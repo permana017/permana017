@@ -1,5 +1,5 @@
 # 💫 About Me:
-As a web developer with expertise in Express.js, PostgreSQL, React.js, and Next.js,  I have experience in creating various web applications, including Coffeeshop, e-Wallet, Ticketing, and Hiring, among others. My passion for building efficient and user-friendly applications drives me to stay up-to-date with the latest technologies and best practices in the industry.
+As a web developer with expertise in Vue.js React.js, Next.js and Nuxt.js,  I have experience in creating various web applications, including Coffeeshop, e-Wallet, Ticketing, and Hiring, among others. My passion for building efficient and user-friendly applications drives me to stay up-to-date with the latest technologies and best practices in the industry.
 
 
 ## 🌐 Socials:
