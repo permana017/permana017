@@ -1,5 +1,5 @@
 # 💫 About Me:
-As a web developer with expertise in Vue.js React.js, Next.js and Nuxt.js,  I have experience in creating various web applications, including Coffeeshop, e-Wallet, Ticketing, and Hiring, among others. My passion for building efficient and user-friendly applications drives me to stay up-to-date with the latest technologies and best practices in the industry.
+I am a web developer with extensive experience in real-world projects, mainly focusing on ERP systems such as HRIS, company operations, finance, and accounting applications. I work with Vue.js, React.js, Next.js, and Nuxt.js to build reliable and scalable web solutions.
 
 
 ## 🌐 Socials:
